@@ -1,0 +1,4 @@
+baseURL = 'https://life.juan-cool.com/'
+languageCode = 'en-us'
+title = '卷‘s mama的随想记录'
+theme = 'ananke'
