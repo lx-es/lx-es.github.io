@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lx-es/lx-es.github.io   # 替换为你的 GitHub 用户名和仓库名
   branch: master                                  # 如有需要可调整分支
-  ##auth_scope: public_repo                       # 或 private_repo，根据实际仓库权限
+  auth_scope: public_repo                       # 或 private_repo，根据实际仓库权限
 
 media_folder: "static/images"    # 上传的图片将存储在此目录
 public_folder: "/images"         # 在网站中引用图片的相对路径
