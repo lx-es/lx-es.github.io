@@ -31,5 +31,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          ##publish_dir: ./public    # 如果你配置 publishDir 为 docs；若使用其他方案，请调整此处
+          publish_dir: ./public    # 如果你配置 publishDir 为 docs；若使用其他方案，请调整此处
           publish_branch: gh-pages
