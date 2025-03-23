@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "卷儿的库" # Set a different text for the header on the home page
+  homeTitle = "卷儿的库" # Set a different text for the header on the home page
   subtitle = "mama's records"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
