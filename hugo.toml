@@ -20,7 +20,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "卷儿的库" # Set a different text for the header on the home page
-  subtitle = "mama's records"
+  subtitle = "Mama's records"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -53,38 +53,12 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
-  lastfm = "username"
+  name = "Lee"
+  website = "life.juan-cool.com"
+  # email = "youremail@qq.com"
+  # facebook = "username"
+  # github = "username"
+  # twitter = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -97,25 +71,25 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "随记"
+    name = "随记"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
+    parent = "随记"
+    name = "游学见闻"
     url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
+    parent = "随记"
+    name = "一点感悟"
     url = "post/2017-03-05-math-sample"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
+    parent = "随记"
+    name = "卷‘s历程"
     url = "post/2016-03-08-code-sample"
     weight = 3
 
