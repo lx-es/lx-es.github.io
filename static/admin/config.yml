@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: lx-es/lx-es.github.io   # 替换为你的 GitHub 用户名/仓库名
+  branch: master                                  # 确保与实际分支一致
+  auth_scope: public_repo                       # 或根据需要设置为 private_repo
+
+media_folder: "static/images"    # 媒体文件在仓库中的存储路径
+public_folder: "/images"         # 网站中引用图片的相对路径
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: lifejuan        # Cloudinary 的 cloud_name
+    api_key: 431433219326673              # Cloudinary 的 API key
+    upload_preset: Unsigned  # Cloudinary 中设置的 Upload Preset
+
+collections:
+  - name: "posts"
+    label: "文章"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "date", widget: "datetime" }
+      - { label: "摘要", name: "summary", widget: "text" }
+      - { label: "正文", name: "body", widget: "markdown" }
