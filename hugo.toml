@@ -62,20 +62,15 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     name = "游学见闻"
-    url = "post/游学见闻/"
+    url = "post/游学见闻"
     weight = 1
 
 [[menu.main]]
     name = "一点感悟"
-    url = "post/一点感悟/"
+    url = "post/一点感悟"
     weight = 2
 
 [[menu.main]]
     name = "卷的历程"
-    url = "post/卷的历程/“
+    url = "post/卷的历程“
     weight = 3
-
-[[menu.main]]
-    name = "About"
-    url = "page/about.md"
-    weight = 4
