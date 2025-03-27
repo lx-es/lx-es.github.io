@@ -71,6 +71,6 @@ theme = "beautifulhugo"
     weight = 2
 
 [[menu.main]]
-    name = "卷‘s历程"
-    url = "post/卷's历程/“
+    name = "卷的历程"
+    url = "post/卷的历程/“
     weight = 3
