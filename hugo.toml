@@ -74,3 +74,8 @@ theme = "beautifulhugo"
     name = "卷的历程"
     url = "post/卷的历程/“
     weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "page/about.md"
+    weight = 4
