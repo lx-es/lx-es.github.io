@@ -30,6 +30,7 @@ theme = "beautifulhugo"
   comments = true
   readingTime = true
   wordCount = true
+  selfHosted = true
 #  useHLJS = true
   socialShare = true
   delayDisqus = true
@@ -51,12 +52,12 @@ theme = "beautifulhugo"
 [[menu.main]]
     name = "Blog"
     url = ""
-    weight = 1
+    weight = 10
 
 [[menu.main]]
     identifier = "samples"
     name = "Samples"
-    weight = 2
+    weight = 20
 
 [[menu.main]]
     parent = "samples"
@@ -78,20 +79,20 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     name = "游学见闻"
-    url = "posts/游学见闻/"
-    weight = 3
+    pageRef = "posts/游学见闻/"
+    weight = 30
 
 [[menu.main]]
     name = "一点感悟"
-    url = "posts/一点感悟/"
-    weight = 3
+    pageRef = "posts/一点感悟/"
+    weight = 30
 
 [[menu.main]]
     name = "卷的历程"
-    url = "posts/卷的历程/"
-    weight = 3
+    pageRef = "posts/卷的历程/"
+    weight = 30
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 4
+    weight = 40
