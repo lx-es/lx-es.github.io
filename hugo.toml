@@ -50,23 +50,18 @@ theme = "beautifulhugo"
   # twitter = "username"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
+    name = "一堆记录"
+    url = "post/一堆记录/"
     weight = 10
 
 [[menu.main]]
-    name = "游学见闻"
-    url = "post/游学见闻/"
-    weight = 30
+    name = "一些见闻"
+    url = "post/一些见闻/"
+    weight = 20
 
 [[menu.main]]
-    name = "一点感悟"
-    url = "post/一点感悟/"
-    weight = 30
-
-[[menu.main]]
-    name = "卷的历程"
-    url = "post/卷的历程/"
+    name = "一点感想"
+    url = "post/一点感想/"
     weight = 30
 
 [[menu.main]]
