@@ -1,2 +1,1 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+![上学了](https://res.cloudinary.com/techjuan/image/upload/v1743348682/IMG_3630_kbjmmb.jpg)

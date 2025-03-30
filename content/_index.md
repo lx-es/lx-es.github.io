@@ -1,1 +1,0 @@
-![上学了](https://res.cloudinary.com/techjuan/image/upload/v1743348682/IMG_3630_kbjmmb.jpg)
