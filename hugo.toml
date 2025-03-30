@@ -21,9 +21,9 @@ theme = "beautifulhugo"
 [Params]
   homeTitle = "卷儿的库" # Set a different text for the header on the home page
   subtitle = "Mama's records"
-  mainSections = ["post"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  mainSections = ["post","posts"]
+  logo = "img/juan.png" # Expecting square dimensions
+  favicon = "img/juan.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
