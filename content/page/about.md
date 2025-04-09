@@ -1,16 +1,13 @@
 ---
-subtitle: Why you'd want to go on a date with me
-title: About me
+subtitle: 
+title: About us
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<font color="#7030a0">这里是一枚全职妈咪瞎说八道、胡思乱想的地方......</font>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<font color="#7030a0">这个妈咪在之前只服务过一家单位、只从事过一种职业——教辅编辑</font>
 
-What else do you need?
+<font color="#7030a0"> 在孩子6岁多的时候，我们一家三口（从未出国旅行过）竟然直接落地西班牙巴伦西亚重启我们（孩子除外）的人生，还是在这知天命的年纪......</font>
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<u>**<font color="#c00000">（卷's Papa 随想   地址 tech.juan-cool.com)</font>**</u>
